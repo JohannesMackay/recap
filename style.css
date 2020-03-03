@@ -1,0 +1,36 @@
+
+
+h1{
+  font-family: 'Odibee Sans';
+  color: darkslategrey;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+li{
+  display: inline-block;
+}
+a{
+  text-decoration: none;
+  width: 100%;
+}
+
+p{
+  font-family: 'Trade Winds';
+  color:slategrey;
+}
+h3{
+  font-size: 40px;
+  font-family: 'Odibee Sans';
+  color: darkslategrey;
+
+}
+
+.photo{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
