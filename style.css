@@ -34,3 +34,11 @@ img{
   display: block;
   margin: 0 auto;
 }
+nav li{
+  width: 30%;
+  text-align: center;
+}
+
+.contact{
+  text-align: center;
+}
